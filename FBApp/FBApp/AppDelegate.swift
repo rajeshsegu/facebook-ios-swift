@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  FBApp
-//
-//  Created by Rajesh Segu on 9/24/14.
-//  Copyright (c) 2014 500miles. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
